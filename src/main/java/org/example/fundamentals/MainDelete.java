@@ -1,4 +1,4 @@
-package org.example;
+package org.example.fundamentals;
 
 import org.example.db.DB;
 import org.example.db.DbIntegrityException;
